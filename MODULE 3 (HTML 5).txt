@@ -1,0 +1,18 @@
+MODULE: 3 (HTML 5)
+
+
+• What are the new tags added in HTML5?
+	header,footer,aside,canvas
+
+
+• How to embed audio and video in a webpage?
+	The <audio> element is used to embed audio files to a web page, and the <video> element is used to embed a video.
+
+• Semantic element in HTML5?
+	Semantic HTML elements are those that clearly describe their meaning in a human- and machine-readable way. 
+	Elements such as <header> , <footer> and <article> are all considered semantic because they accurately describe the purpose of the element and the type of content that is inside them.
+
+• Canvas and SVG tags 
+	SVG is a language for describing 2D graphics in XML. 
+	Canvas draws 2D graphics, on the fly (with a JavaScript). SVG is XML based, which means that every element is available within the SVG DOM. 
+	You can attach JavaScript event handlers for an element.
